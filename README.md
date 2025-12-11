@@ -1,2 +1,11 @@
 # CS4450-Parser-Project
-My parser project.
+
+Project Description:
+
+Team members:
+Completed individually by Andrew Pullen
+
+Requirements, setup, and environment:
+
+How to use/run the parser:
+
